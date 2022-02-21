@@ -1,4 +1,7 @@
 api-ipv4.opendns.com
+az18w8902.global.ds.honeywell.com
+az18w8905.global.ds.honeywell.com
+az18w8906.global.ds.honeywell.com
 az18w2361.global.ds.honeywell.com
 az18w2398.ds.honeywell.com
 az18w2398.lan
@@ -20,3 +23,4 @@ us01honcmg.honeywell.com
 _ldap._tcp.be0c2fdf-8e7b-4128-a8b5-e8d562a82d0d.domains._msdcs.ds.honeywell.com
 _ldap._tcp.dc._msdcs.global.ds.honeywell.com
 _ldap._tcp.az66-vpn._sites.dc._msdcs.global.ds.honeywell.com
+
