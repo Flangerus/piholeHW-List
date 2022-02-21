@@ -20,7 +20,9 @@ hic022505.global.ds.honeywell.com
 ie3bw0005.global.ds.honeywell.com
 mx0altg0yz5y2.global.ds.honeywell.com
 us01honcmg.honeywell.com
+wpad.lan
+wpad.honeywell.com
+wpad.ds.honeywell.com
 _ldap._tcp.be0c2fdf-8e7b-4128-a8b5-e8d562a82d0d.domains._msdcs.ds.honeywell.com
 _ldap._tcp.dc._msdcs.global.ds.honeywell.com
 _ldap._tcp.az66-vpn._sites.dc._msdcs.global.ds.honeywell.com
-
