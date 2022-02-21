@@ -3,6 +3,7 @@ az18w2398.ds.honeywell.com
 az18w2398.lan
 az18w2398.global.ds.honeywell.com
 de08u2518-fwd.dc.honeywell.com
+debug.opendns.com
 exepo1.honeywell.com
 fr44w0096.global.ds.honeywell.com
 hic022504.lan
@@ -17,4 +18,3 @@ us01honcmg.honeywell.com
 _ldap._tcp.be0c2fdf-8e7b-4128-a8b5-e8d562a82d0d.domains._msdcs.ds.honeywell.com
 _ldap._tcp.dc._msdcs.global.ds.honeywell.com
 _ldap._tcp.az66-vpn._sites.dc._msdcs.global.ds.honeywell.com
-
