@@ -1,3 +1,4 @@
+api-ipv4.opendns.com
 az18w2361.global.ds.honeywell.com
 az18w2398.ds.honeywell.com
 az18w2398.lan
