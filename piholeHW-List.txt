@@ -18,6 +18,7 @@ de08u2518-fwd.dc.honeywell.com
 debug.opendns.com
 exepo1.honeywell.com
 fr44w0096.global.ds.honeywell.com
+global.ds.honeywell.com
 hic022504.lan
 hic022504.honeywell.com
 hic022504.ds.honeywell.com
