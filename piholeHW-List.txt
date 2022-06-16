@@ -4,7 +4,11 @@ _ldap._tcp.pdc._msdcs.global.ds.honeywell.com
 _ldap._tcp.az66-vpn._sites.global.ds.honeywell.com
 _ldap._tcp.az66-vpn._sites.dc._msdcs.global.ds.honeywell.com
 _ldap._tcp.be0c2fdf-8e7b-4128-a8b5-e8d562a82d0d.domains._msdcs.ds.honeywell.com
+_ldap._tcp.mx0a._sites.dc._msdcs.global.ds.honeywell.com
+_kerberos._tcp.dc._msdcs.global.ds.honeywell.com
+_kerberos._tcp.mx0a._sites.dc._msdcs.global.ds.honeywell.com
 api-ipv4.opendns.com
+authn.honeywell.com
 az18w8902.global.ds.honeywell.com
 az18w8905.global.ds.honeywell.com
 az18w8906.global.ds.honeywell.com
