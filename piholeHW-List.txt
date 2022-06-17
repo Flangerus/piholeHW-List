@@ -20,6 +20,7 @@ crl1.mspki.honeywell.com
 crl2.mspki.honeywell.com
 de08u2518-fwd.dc.honeywell.com
 debug.opendns.com
+ds.honeywell.com
 exepo1.honeywell.com
 fr44w0096.global.ds.honeywell.com
 global.ds.honeywell.com
