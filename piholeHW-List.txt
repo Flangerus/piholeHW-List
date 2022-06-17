@@ -8,7 +8,6 @@ _ldap._tcp.mx0a._sites.dc._msdcs.global.ds.honeywell.com
 _kerberos._tcp.dc._msdcs.global.ds.honeywell.com
 _kerberos._tcp.mx0a._sites.dc._msdcs.global.ds.honeywell.com
 api-ipv4.opendns.com
-authn.honeywell.com
 az18w8902.global.ds.honeywell.com
 az18w8905.global.ds.honeywell.com
 az18w8906.global.ds.honeywell.com
