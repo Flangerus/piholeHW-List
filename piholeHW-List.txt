@@ -5,6 +5,7 @@ _ldap._tcp.az66-vpn._sites.global.ds.honeywell.com
 _ldap._tcp.az66-vpn._sites.dc._msdcs.global.ds.honeywell.com
 _ldap._tcp.be0c2fdf-8e7b-4128-a8b5-e8d562a82d0d.domains._msdcs.ds.honeywell.com
 _ldap._tcp.mx0a._sites.dc._msdcs.global.ds.honeywell.com
+_ldap._tcp.mx0a._sites.global.ds.honeywell.com
 _kerberos._tcp.dc._msdcs.global.ds.honeywell.com
 _kerberos._tcp.mx0a._sites.dc._msdcs.global.ds.honeywell.com
 api-ipv4.opendns.com
@@ -36,6 +37,7 @@ hic022505.lan
 hic022505.ds.honeywell.com
 hic022505.global.ds.honeywell.com
 ie3bw0005.global.ds.honeywell.com
+msftconnecttest.com
 mx0altg0yz5y2.global.ds.honeywell.com
 ocsp1.mspki.honeywell.com
 ocsp2.mspki.honeywell.com
