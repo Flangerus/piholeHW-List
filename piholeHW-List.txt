@@ -1,5 +1,5 @@
 _ldap._tcp.global.ds.honeywell.com
-_ldap._tcp.dc._msdcs.global.ds.honeywell.com
+#_ldap._tcp.dc._msdcs.global.ds.honeywell.com
 _ldap._tcp.pdc._msdcs.global.ds.honeywell.com
 _ldap._tcp.az66-vpn._sites.global.ds.honeywell.com
 _ldap._tcp.az66-vpn._sites.dc._msdcs.global.ds.honeywell.com
