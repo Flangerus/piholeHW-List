@@ -20,6 +20,7 @@ crl1.mspki.honeywell.com
 crl2.mspki.honeywell.com
 de08u2518-fwd.dc.honeywell.com
 debug.opendns.com
+dns.msftncsi.com
 ds.honeywell.com
 exepo1.honeywell.com
 fr44w0096.global.ds.honeywell.com
@@ -38,6 +39,7 @@ ie3bw0005.global.ds.honeywell.com
 mx0altg0yz5y2.global.ds.honeywell.com
 ocsp1.mspki.honeywell.com
 ocsp2.mspki.honeywell.com
+swg-url-proxy-https.sigproxy.qq.opendns.com
 us01honcmg.honeywell.com
 wpad.honeywell.com
 wpad.ds.honeywell.com
