@@ -15,6 +15,7 @@ az18w8893.global.ds.honeywell.com
 az18w8902.global.ds.honeywell.com
 az18w8905.global.ds.honeywell.com
 az18w8906.global.ds.honeywell.com
+
 az18w2398.lan
 az18w2398.ds.honeywell.com
 az18w2398.global.ds.honeywell.com
@@ -38,6 +39,7 @@ hic022505.lan
 hic022505.ds.honeywell.com
 hic022505.global.ds.honeywell.com
 hic028789.honeywell.com
+hic028789.global.ds.honeywell.com
 hic028789.abinf.lan
 honeywell.com
 ie3bw0005.global.ds.honeywell.com
