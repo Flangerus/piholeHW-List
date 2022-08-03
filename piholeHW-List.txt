@@ -22,6 +22,10 @@ az18w2398.global.ds.honeywell.com
 crl1.mspki.honeywell.com
 crl2.mspki.honeywell.com
 de08u2518-fwd.dc.honeywell.com
+de08st1046.ds.honeywell.com
+de08st1046.abinf.lan
+de08st1046.global.ds.honeywell.com
+de08st1046.honeywell.com
 debug.opendns.com
 dns.msftncsi.com
 ds.honeywell.com
