@@ -19,6 +19,7 @@ az18w8906.global.ds.honeywell.com
 az18w2398.lan
 az18w2398.ds.honeywell.com
 az18w2398.global.ds.honeywell.com
+block.opendns.com
 crl1.mspki.honeywell.com
 crl2.mspki.honeywell.com
 de08u2518-fwd.dc.honeywell.com
