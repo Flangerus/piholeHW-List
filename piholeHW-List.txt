@@ -1,3 +1,5 @@
+_kerberos._tcp.dc._msdcs.global.ds.honeywell.com
+_kerberos._tcp.mx0a._sites.dc._msdcs.global.ds.honeywell.com
 _ldap._tcp.global.ds.honeywell.com
 _ldap._tcp.dc._msdcs.global.ds.honeywell.com
 _ldap._tcp.pdc._msdcs.global.ds.honeywell.com
@@ -6,15 +8,19 @@ _ldap._tcp.az66-vpn._sites.dc._msdcs.global.ds.honeywell.com
 _ldap._tcp.be0c2fdf-8e7b-4128-a8b5-e8d562a82d0d.domains._msdcs.ds.honeywell.com
 _ldap._tcp.mx0a._sites.dc._msdcs.global.ds.honeywell.com
 _ldap._tcp.mx0a._sites.global.ds.honeywell.com
-_kerberos._tcp.dc._msdcs.global.ds.honeywell.com
-_kerberos._tcp.mx0a._sites.dc._msdcs.global.ds.honeywell.com
+_ldap._tcp.mx0a._sites.dc._msdcs.abinf.com
+_ldap._tcp.dc._msdcs.abinf.com
+
+
 api-ipv4.opendns.com
 #authn.honeywell.com
+az18w2328.global.ds.honeywell.com
 az18w2361.global.ds.honeywell.com
 az18w8893.global.ds.honeywell.com
 az18w8902.global.ds.honeywell.com
 az18w8905.global.ds.honeywell.com
 az18w8906.global.ds.honeywell.com
+
 
 az18w2398.lan
 az18w2398.ds.honeywell.com
@@ -46,7 +52,9 @@ hic022505.global.ds.honeywell.com
 hic028789.honeywell.com
 hic028789.global.ds.honeywell.com
 hic028789.abinf.lan
+hits_kms_host.honeywell.com
 honeywell.com
+honeywell-engine-7.us.nexthink.cloud
 ie3bw0005.global.ds.honeywell.com
 msftconnecttest.com
 mx0altg0yz5y2.global.ds.honeywell.com
