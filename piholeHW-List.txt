@@ -1,3 +1,4 @@
+_kerberos._tcp.az66-vpn._sites.dc._msdcs.global.ds.honeywell.com
 _kerberos._tcp.dc._msdcs.global.ds.honeywell.com
 _kerberos._tcp.mx0a._sites.dc._msdcs.global.ds.honeywell.com
 _ldap._tcp.global.ds.honeywell.com
@@ -66,3 +67,4 @@ us01honcmg.honeywell.com
 wpad.honeywell.com
 wpad.ds.honeywell.com
 wpad.global.ds.honeywell.com
+www.actionablemessage.olk
