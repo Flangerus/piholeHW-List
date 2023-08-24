@@ -18,6 +18,7 @@ api-ipv4.opendns.com
 az18w2328.global.ds.honeywell.com
 az18w2361.global.ds.honeywell.com
 az18w8893.global.ds.honeywell.com
+az18w8895.global.ds.honeywell.com
 az18w8902.global.ds.honeywell.com
 az18w8905.global.ds.honeywell.com
 az18w8906.global.ds.honeywell.com
