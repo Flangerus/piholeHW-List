@@ -9,9 +9,14 @@ _ldap._tcp.az66-vpn._sites.dc._msdcs.global.ds.honeywell.com
 _ldap._tcp.be0c2fdf-8e7b-4128-a8b5-e8d562a82d0d.domains._msdcs.ds.honeywell.com
 _ldap._tcp.mx0a._sites.dc._msdcs.global.ds.honeywell.com
 _ldap._tcp.mx0a._sites.global.ds.honeywell.com
-_ldap._tcp.mx0a._sites.dc._msdcs.abinf.com
-_ldap._tcp.dc._msdcs.abinf.com
 
+_ldap._tcp.dc._msdcs.abhern.honeywell.com
+_ldap._tcp.dc._msdcs.abhern.ds.honeywell.com
+_ldap._tcp.dc._msdcs.abhern.global.ds.honeywell.com
+_ldap._tcp.az66-vpn._sites.dc._msdcs.abhern.honeywell.com
+_ldap._tcp.az66-vpn._sites.dc._msdcs.abhern.ds.honeywell.com
+_ldap._tcp.az66-vpn._sites.dc._msdcs.abhern.global.ds.honeywell.com
+_ldap._tcp.dc._msdcs.abhern.honeywell.com
 
 api-ipv4.opendns.com
 #authn.honeywell.com
@@ -22,7 +27,6 @@ az18w8895.global.ds.honeywell.com
 az18w8902.global.ds.honeywell.com
 az18w8905.global.ds.honeywell.com
 az18w8906.global.ds.honeywell.com
-
 
 az18w2398.lan
 az18w2398.ds.honeywell.com
@@ -59,11 +63,13 @@ honeywell.com
 honeywell-engine-7.us.nexthink.cloud
 ie3bw0005.global.ds.honeywell.com
 it.api.honeywell.com
+metadata.google.internal
 msftconnecttest.com
 mx0altg0yz5y2.global.ds.honeywell.com
 ocsp1.mspki.honeywell.com
 ocsp2.mspki.honeywell.com
 swg-url-proxy-https.sigproxy.qq.opendns.com
+sync.hydra.opendns.com
 us01honcmg.honeywell.com
 wpad.honeywell.com
 wpad.ds.honeywell.com
