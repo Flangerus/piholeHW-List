@@ -63,6 +63,9 @@ honeywell.com
 honeywell-engine-7.us.nexthink.cloud
 ie3bw0005.global.ds.honeywell.com
 it.api.honeywell.com
+localdomain.honeywell.com
+localdomain.ds.honeywell.com
+localdomain.global.ds.honeywell.com
 metadata.google.internal
 msftconnecttest.com
 mx0altg0yz5y2.global.ds.honeywell.com
